@@ -6,6 +6,7 @@ import time
 
 client = discord.Client()
 
+
 prefix = 'S!'
 ping = '<@356346393612517379>'
 wersja = 'v1.1 BETA'
